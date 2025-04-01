@@ -46,17 +46,6 @@ export default function Hero() {
                         <p className="text-center text-gray-500">Describe what you want</p>
                     </TabsContent>
                 </Tabs>
-
-                <div className="mt-16">
-                    <h2 className="text-2xl font-semibold mb-6">Design to Code with Popular Frameworks</h2>
-                    <div className="flex flex-wrap justify-center gap-4">
-                        {['HTML', 'Next.js', 'React', 'TailwindCSS', 'Shadcn/UI', 'Nuxt', 'Vue'].map((tech) => (
-                            <div key={tech} className="px-4 py-2 bg-gray-100 rounded-full">
-                                {tech}
-                            </div>
-                        ))}
-                    </div>
-                </div>
             </div>
         </div>
     )

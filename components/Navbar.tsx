@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 export default function Navbar() {
     return (
-        <nav className="flex items-center justify-between py-4 px-6 md:px-12 border-b">
+        <nav className="flex items-center justify-between py-4 px-6 md:px-12">
             <div className="flex items-center">
                 <Link href="/" className="text-2xl font-bold">
                     CopyWeb
