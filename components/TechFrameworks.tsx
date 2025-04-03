@@ -4,7 +4,7 @@ import Image from 'next/image'
 const frameworks = [
     {
         name: "HTML5",
-        logo: "/images/frameworks/html5.svg",
+        logo: "/images/frameworks/html.svg",
         alt: "HTML5 logo"
     },
     {
@@ -26,11 +26,6 @@ const frameworks = [
         name: "Shadcn/ui",
         logo: "/images/frameworks/shadcn.svg",
         alt: "Shadcn/ui logo"
-    },
-    {
-        name: "Prisma",
-        logo: "/images/frameworks/prisma.svg",
-        alt: "Prisma logo"
     },
     {
         name: "Vue",

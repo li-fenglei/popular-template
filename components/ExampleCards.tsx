@@ -11,32 +11,32 @@ type ExampleCard = {
 const examples: ExampleCard[] = [
     {
         title: "Twitter Prototype",
-        image: "/images/twitter-prototype.png",
+        image: "/images/examples/twitter-prototype.png",
         link: "/examples/twitter"
     },
     {
         title: "AI search prototype",
-        image: "/images/ai-search.png",
+        image: "/images/examples/ai-search.png",
         link: "/examples/ai-search"
     },
     {
         title: "YouTube",
-        image: "/images/youtube.png",
+        image: "/images/examples/youtube.png",
         link: "/examples/youtube"
     },
     {
         title: "AI Search Engine",
-        image: "/images/ai-search-engine.png",
+        image: "/images/examples/ai-search-engine.png",
         link: "/examples/search-engine"
     },
     {
         title: "AI SaaS Boilerplate",
-        image: "/images/ai-saas.png",
+        image: "/images/examples/ai-saas.png",
         link: "/examples/saas"
     },
     {
         title: "CopyWeb",
-        image: "/images/copyweb.png",
+        image: "/images/examples/copyweb.png",
         link: "/examples/copyweb"
     }
 ]
